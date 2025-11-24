@@ -1,0 +1,6 @@
+Sayfa Adı,İçerik Özeti
+Ana Sayfa,"Şirketi tanıtan kısa bir metin, ana hizmetlerin özeti (PLC, Makine Onarımı, Çamaşırhane), öne çıkan projeler/referanslar ve iletişim bilgileri."
+Hakkımızda,"Şirketin vizyonu, misyonu, tarihi, uzman ekibi ve kalite politikası gibi kurumsal bilgiler."
+Hizmetlerimiz,Sunulan hizmetlerin detaylı açıklaması. Bu bölümü alt başlıklara ayıracağız.
+Referanslar/Projeler,Tamamlanan veya devam eden önemli işlerin listesi/galerisi.
+İletişim,"Adres, telefon, e-posta, iletişim formu ve harita konumu."
